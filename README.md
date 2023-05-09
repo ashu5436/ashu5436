@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu5436&label=Profile%20views&color=0e75b6&style=flat" alt="ashu5436" /> </p>
 
-- 🔭 I’m currently working on [SMS SPAM CLASSIFIER](https://github.com/ashu5436/Internship/tree/main/SMS%20Spam%20Classifier)
-
 - 🌱 I’m currently learning **Neural Network and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashu5436](https://github.com/ashu5436)
