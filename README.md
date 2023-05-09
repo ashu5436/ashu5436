@@ -1,6 +1,9 @@
 ![logo](https://github.com/ashu5436/ashu5436/blob/main/a.png)
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">A passionate Data Science intern</h3>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ashutosh-mishra-070807129" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ashutosh-mishra-070807129?trk=profile-badge">Ashutosh Mishra</a></div>
+              
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu5436&label=Profile%20views&color=0e75b6&style=flat" alt="ashu5436" /> </p>
